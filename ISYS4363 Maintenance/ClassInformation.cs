@@ -26,7 +26,7 @@ namespace ISYS4363_Maintenance
 
         private void ClassInformation_Load(object sender, EventArgs e)
         {
-
+            //hello
         }
     }
 }
