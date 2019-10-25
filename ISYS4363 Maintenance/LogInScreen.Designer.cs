@@ -76,9 +76,9 @@
             // 
             // btnLogIn
             // 
-            this.btnLogIn.Location = new System.Drawing.Point(643, 407);
+            this.btnLogIn.Location = new System.Drawing.Point(643, 391);
             this.btnLogIn.Name = "btnLogIn";
-            this.btnLogIn.Size = new System.Drawing.Size(95, 39);
+            this.btnLogIn.Size = new System.Drawing.Size(95, 55);
             this.btnLogIn.TabIndex = 12;
             this.btnLogIn.Text = "Log In";
             this.btnLogIn.UseVisualStyleBackColor = true;
@@ -86,9 +86,9 @@
             // 
             // btnApply
             // 
-            this.btnApply.Location = new System.Drawing.Point(12, 407);
+            this.btnApply.Location = new System.Drawing.Point(12, 391);
             this.btnApply.Name = "btnApply";
-            this.btnApply.Size = new System.Drawing.Size(100, 39);
+            this.btnApply.Size = new System.Drawing.Size(100, 55);
             this.btnApply.TabIndex = 11;
             this.btnApply.Text = "Apply";
             this.btnApply.UseVisualStyleBackColor = true;
