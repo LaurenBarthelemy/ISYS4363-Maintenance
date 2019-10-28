@@ -1,0 +1,54 @@
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363 Maintenance\ISYS4363 Maintenance\bin\Debug\ISYS4363 Maintenance.exe.config
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363 Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363 Maintenance.csprojResolveAssemblyReference.cache
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363 Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.FacultyAdvisingView.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363 Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.FillOutApplication.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363 Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.FillOutApplication2.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363 Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.LogInScreen.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363 Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.Properties.Resources.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363 Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.SelectionMenu.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363 Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.StudentEnrollment.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363 Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.StudentInfo.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363 Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.ViewApplication.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363 Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.ViewApplication2.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363 Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.YourInfo.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363 Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363 Maintenance.csproj.GenerateResource.Cache
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363 Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.ClassInformation.resources
+S:\lballiso\Fall 2019\ISYS 4363\ISYS4363-Maintenance\ISYS4363 Maintenance\bin\Debug\ISYS4363 Maintenance.exe.config
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363-Maintenance\ISYS4363 Maintenance\bin\Debug\ISYS4363 Maintenance.exe.config
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363 Maintenance.csprojResolveAssemblyReference.cache
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.ClassInformation.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.FacultyAdvisingView.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.FillOutApplication.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.FillOutApplication2.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.LogInScreen.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.Properties.Resources.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.SelectionMenu.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.StudentEnrollment.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.StudentInfo.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.ViewApplication.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.ViewApplication2.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.YourInfo.resources
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363 Maintenance.csproj.GenerateResource.Cache
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363-Maintenance\ISYS4363 Maintenance\bin\Debug\ISYS4363 Maintenance.exe
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363-Maintenance\ISYS4363 Maintenance\bin\Debug\ISYS4363 Maintenance.pdb
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363 Maintenance.exe
+\\ent-storage1.walton.uark.edu\enterprise$\lballiso\Fall 2019\ISYS 4363\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363 Maintenance.pdb
+\\uem.walton.uark.edu\UEMProfiles_Lab$\iroman\RedirectedFolders\Desktop\Maintenance Edits\ISYS4363-Maintenance\ISYS4363 Maintenance\bin\Debug\ISYS4363 Maintenance.exe.config
+\\uem.walton.uark.edu\UEMProfiles_Lab$\iroman\RedirectedFolders\Desktop\Maintenance Edits\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363 Maintenance.exe
+\\uem.walton.uark.edu\UEMProfiles_Lab$\iroman\RedirectedFolders\Desktop\Maintenance Edits\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363 Maintenance.pdb
+\\uem.walton.uark.edu\UEMProfiles_Lab$\iroman\RedirectedFolders\Desktop\Maintenance Edits\ISYS4363-Maintenance\ISYS4363 Maintenance\bin\Debug\ISYS4363 Maintenance.exe
+\\uem.walton.uark.edu\UEMProfiles_Lab$\iroman\RedirectedFolders\Desktop\Maintenance Edits\ISYS4363-Maintenance\ISYS4363 Maintenance\bin\Debug\ISYS4363 Maintenance.pdb
+\\uem.walton.uark.edu\UEMProfiles_Lab$\iroman\RedirectedFolders\Desktop\Maintenance Edits\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363 Maintenance.csprojResolveAssemblyReference.cache
+\\uem.walton.uark.edu\UEMProfiles_Lab$\iroman\RedirectedFolders\Desktop\Maintenance Edits\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.ClassInformation.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\iroman\RedirectedFolders\Desktop\Maintenance Edits\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.FacultyAdvisingView.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\iroman\RedirectedFolders\Desktop\Maintenance Edits\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.FillOutApplication.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\iroman\RedirectedFolders\Desktop\Maintenance Edits\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.FillOutApplication2.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\iroman\RedirectedFolders\Desktop\Maintenance Edits\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.LogInScreen.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\iroman\RedirectedFolders\Desktop\Maintenance Edits\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.Properties.Resources.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\iroman\RedirectedFolders\Desktop\Maintenance Edits\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.SelectionMenu.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\iroman\RedirectedFolders\Desktop\Maintenance Edits\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.StudentEnrollment.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\iroman\RedirectedFolders\Desktop\Maintenance Edits\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.StudentInfo.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\iroman\RedirectedFolders\Desktop\Maintenance Edits\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.ViewApplication.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\iroman\RedirectedFolders\Desktop\Maintenance Edits\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.ViewApplication2.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\iroman\RedirectedFolders\Desktop\Maintenance Edits\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363_Maintenance.YourInfo.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\iroman\RedirectedFolders\Desktop\Maintenance Edits\ISYS4363-Maintenance\ISYS4363 Maintenance\obj\Debug\ISYS4363 Maintenance.csproj.GenerateResource.Cache
