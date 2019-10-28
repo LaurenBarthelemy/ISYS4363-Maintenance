@@ -15,8 +15,8 @@ namespace ISYS4363_Maintenance
     public partial class YourInfo : Form
     {
         string studentid = LogInScreen.studentid;
-        //Start here
-        //Private variables for SQL
+        
+
         string ConnectionString = null;
         string sql = null;
         SqlConnection connection;
@@ -30,8 +30,8 @@ namespace ISYS4363_Maintenance
 
         private void YourInfo_Load(object sender, EventArgs e)
         {
-           
-            
+
+            ConnectionString = "Data Source=essql1.walton.uark.edu;Initial Catalog=PROJF19135;" + "User ID=PROJF19135;Password=JX20stt$";
             connection = new SqlConnection(ConnectionString);
             sql = "SELECT Student_ID, First_Name, Last_Name, Email, Phone, Date_of_Birth, Street_Address, City, State, Zip_Code, Country, Hispanic, Ethnicity, Gender, Citizenship, Program, Major FROM MA_Students WHERE Student_ID = '" + studentid + "'";
             connection.Open();
@@ -114,11 +114,10 @@ namespace ISYS4363_Maintenance
             string Major;
             Major = txtMajor.Text;
 
-            sql = "UPDATE MA_Students SET Student_ID = @Student_ID, First_Name = @First_Name, Last_Name = @Last_Name, Email = @Email, Phone = @Phone, Date_of_Birth = @Date_of_Birth, City = @City, State = @State, Zip_Code = @Zip_Code, Country = @Country,Hispanic = @Hispanic, Ethnicity = @Ethnicity, Gender = @Gender, Citizenship = @Citizenship WHERE Student_ID = '" + studentid + "'";
+            sql = "UPDATE MA_Students SET First_Name = @First_Name, Last_Name = @Last_Name, Email = @Email, Phone = @Phone, Date_of_Birth = @Date_of_Birth, City = @City, State = @State, Zip_Code = @Zip_Code, Country = @Country,Hispanic = @Hispanic, Ethnicity = @Ethnicity, Gender = @Gender, Citizenship = @Citizenship, Major = @Major, Program = @Program WHERE Student_ID = '" + studentid + "'";
             connection.Open();
             command = new SqlCommand(sql, connection);
 
-            command.Parameters.AddWithValue("@Student_ID", StudentID);
             command.Parameters.AddWithValue("@First_Name", FirstName);
             command.Parameters.AddWithValue("@Last_Name", LastName);
             command.Parameters.AddWithValue("@Email", Email);

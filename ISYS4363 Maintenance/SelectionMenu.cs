@@ -14,6 +14,7 @@ namespace ISYS4363_Maintenance
 {
     public partial class SelectionMenu : Form
     {
+        //Public Variables
         bool student = LogInScreen.student;
         bool faculty = LogInScreen.faculty;
 
@@ -75,7 +76,9 @@ namespace ISYS4363_Maintenance
 
         private void btnClassInformation_Click(object sender, EventArgs e)
         {
-
+            ClassInformation openForm = new ClassInformation();
+            openForm.Show();
+            this.Hide();
         }
 
         private void btnEnrollment_Click(object sender, EventArgs e)

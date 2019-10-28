@@ -48,7 +48,7 @@ namespace ISYS4363_Maintenance
             {
                 ConnectionString = "Data Source=essql1.walton.uark.edu;Initial Catalog=PROJF19135;" + "User ID=PROJF19135;Password=JX20stt$";
                 connection = new SqlConnection(ConnectionString);
-                sql = "SELECT * FROM Student WHERE /*Username = '" + txtUsername.Text.Trim() + "' and Password = '" + txtPassword.Text.Trim() + "'";*/
+                sql = "SELECT * FROM MA_Students WHERE Student_ID = '" + txtUsername.Text.Trim() + "' and Password = '" + txtPassword.Text.Trim() + "'";
                 connection.Open();
                 SqlDataAdapter adapter = new SqlDataAdapter(sql, connection);
                 DataTable dtbl1 = new DataTable();
@@ -72,7 +72,7 @@ namespace ISYS4363_Maintenance
 
                 ConnectionString = "Data Source=essql1.walton.uark.edu;Initial Catalog=PROJF19135;" + "User ID=PROJF19135;Password=JX20stt$";
                 connection = new SqlConnection(ConnectionString);
-                sql = "SELECT * FROM Faculty WHERE /*Username = '" + txtUsername.Text.Trim() + "' and Password = '" + txtPassword.Text.Trim() + "'"; */
+                sql = "SELECT * FROM MA_Faculty WHERE Faculty_ID = '" + txtUsername.Text.Trim() + "' and Password = '" + txtPassword.Text.Trim() + "'"; 
                  connection.Open();
                 SqlDataAdapter adapter = new SqlDataAdapter(sql, connection);
                 DataTable dtbl1 = new DataTable();
@@ -101,5 +101,32 @@ namespace ISYS4363_Maintenance
         {
             student = rdoStudent.Checked == true;
         }
-}
+
+        private void btnApply_Click(object sender, EventArgs e)
+        {
+            FillOutApplication openForm = new FillOutApplication();
+            openForm.Show();
+            this.Hide();
+        }
+
+        private void txtPassword_TextChanged(object sender, EventArgs e)
+        {
+            txtPassword.UseSystemPasswordChar = true;
+        }
+
+        private void txtUsername_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void txtUsername_Click(object sender, EventArgs e)
+        {
+            txtUsername.Text = "";
+        }
+
+        private void txtPassword_Click(object sender, EventArgs e)
+        {
+            txtPassword.Text = "";
+        }
+    }
 }
